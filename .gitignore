@@ -26,4 +26,6 @@ pnpm-debug.log*
 *.tsv
 *.txt
 *.pcap
-
+*.pkl
+/Rear_end/lstm_all/
+/Rear_end/cnn/
